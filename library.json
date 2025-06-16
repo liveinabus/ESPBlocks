@@ -1,0 +1,20 @@
+{
+  "name": "ESPBlocks",
+  "version": "1.0.0",
+  "description": "Make your IO, sensors, device generic and linkable via state for PlatformIO",
+  "keywords": ["ESPBlocks", "library"],
+  "authors": [
+    {
+      "name": "Remco Postma",
+      "email": "info@triplegem.nl"
+    }
+  ],
+  "repository": {
+    "type": "URL",
+    "url": "https://github.com/liveinabus/ESPBlocks"
+  },
+  "homepage": "https://github.com/liveinabus",
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["*"]
+}
